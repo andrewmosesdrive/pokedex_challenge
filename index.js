@@ -1,6 +1,17 @@
 const pokecontainer = document.getElementById("pokecontainer");
 const pokemon_count = 150;
 
+// $(".img-container").on("click", function(){
+//     $(this).css({
+//         width: function( index, value ) {
+//               return parseFloat( value ) * 2;
+//               },
+//               height: function( index, value ) {
+//                   return parseFloat( value ) * 2;
+//               }
+//     });
+// });
+
 // pokemon color scheme created by @florinpop17
 const colors = {
 	fire: '#FDDFDF',
