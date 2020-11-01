@@ -7,10 +7,7 @@
   
 
   ## Demo:
-  ![Demo]()
-
-  [Demo Link]()
-
+  ![Demo](https://github.com/andrewmosesdrive/pokedex_challenge/blob/main/assets/pokeflex.gif?raw=true)
 
   
   ## Table of Contents:
